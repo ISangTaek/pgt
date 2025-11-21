@@ -1,5 +1,4 @@
-# PGT: A Multitask Molecular Graph Learning Framework for AI-Enabled Drug Discovery
-
+# PGT: An Interpretable Prompt Graph Transformer for Multi-Species Acute Toxicity Prediction
 This repository contains the official implementation of **PGT** (Pre-trained Graph Transformer), a deep learning framework designed for molecular property prediction. It leverages Graph Neural Networks (GNNs) with spatial positioning and supports multi-task learning.
 
 ## 📋 Table of Contents
